@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quản Lý Thư Viện</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="prompt_first_run">Chào mừng bạn đến với ứng dụng quản lý thư viện!</string>
+
+    <!-- Form labels -->
+    <string name="label_ten_sach">Tên sách</string>
+    <string name="label_tac_gia">Tác giả</string>
+    <string name="label_nam_xuat_ban">Năm xuất bản</string>
+    <string name="label_phan_loai">Phân loại</string>
+
+    <!-- Button labels -->
+    <string name="btn_them_sach">Thêm sách</string>
+    <string name="btn_thong_ke">Thống kê</string>
+    <string name="btn_tim_kiem_2023">Sách 2023</string>
+
+    <!-- Table headers -->
+    <string name="header_ma_sach">Mã sách</string>
+    <string name="header_ten_sach">Tên sách</string>
+    <string name="header_tac_gia">Tác giả</string>
+    <string name="header_nam_xuat_ban">Năm XB</string>
+    <string name="header_phan_loai">Phân loại</string>
+
+    <!-- Messages -->
+    <string name="msg_them_thanh_cong">Thêm sách thành công!</string>
+    <string name="msg_them_that_bai">Thêm sách thất bại!</string>
+    <string name="msg_nhap_day_du">Vui lòng nhập đầy đủ thông tin!</string>
+    <string name="msg_khong_co_sach_2023">Không có sách nào xuất bản năm 2023</string>
+
+    <!-- Dialog titles -->
+    <string name="title_thong_ke">Thống kê</string>
+    <string name="title_sach_2023">Sách năm 2023</string>
+
+    <!-- Default categories -->
+    <string name="category_van_hoc">Văn học</string>
+    <string name="category_khoa_hoc">Khoa học</string>
+    <string name="category_lich_su">Lịch sử</string>
+    <string name="category_cong_nghe">Công nghệ</string>
+    <string name="category_giao_duc">Giáo dục</string>
+</resources>
